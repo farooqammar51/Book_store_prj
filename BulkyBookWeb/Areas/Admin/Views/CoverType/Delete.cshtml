@@ -1,0 +1,32 @@
+﻿@model CoverType
+
+<div class="container">
+
+    <div class="p-3 text-end">
+        <a asp-controller="CoverType" asp-action="Index" class="btn btn-outline-primary">
+            <i class="bi bi-skip-backward-circle-fill"></i> &nbsp; Back
+        </a>
+    </div>
+
+    <form method="post" asp-action="Delete">
+        <input asp-for="Id" hidden />
+        <div class="border p-3 mt-4">
+            <div class="text-light"><h2>Delete Cover Type</h2></div>
+            <div class="row pb-2">
+                <div class="col-md-6">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control" disabled readonly style="pointer-events:none" />
+                </div>
+                <div class="col-md-6">
+                    
+                </div>
+                <div class="col-md-3 p-3">
+                    <button type="submit" class="btn btn-danger" style="width:150px">Delete</button>
+                </div>
+            </div>
+
+        </div>
+    </form>
+
+</div>
+

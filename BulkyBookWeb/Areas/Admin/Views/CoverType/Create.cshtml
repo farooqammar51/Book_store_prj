@@ -1,0 +1,39 @@
+﻿@model CoverType
+
+<div class="container">
+
+    <div class="p-3 text-end">
+        <a asp-controller="CoverType" asp-action="Index" class="btn btn-outline-primary">
+            <i class="bi bi-skip-backward-circle-fill"></i> &nbsp; Back
+        </a>
+    </div>
+
+    <form method="post">
+        <div class="border p-3 mt-4">
+            <div class="text-light"><h2>Create Cover Type</h2></div>
+            <div class="row pb-2">
+                <div class="col-md-6">
+                    <label asp-for="Name"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="col-md-6">
+
+                </div>
+                <div class="col-md-3 p-3">
+                    <button type="submit" class="btn btn-primary" style="width:150px">Create</button>
+                </div>
+            </div>
+
+        </div>
+    </form>
+
+</div>
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
+
+

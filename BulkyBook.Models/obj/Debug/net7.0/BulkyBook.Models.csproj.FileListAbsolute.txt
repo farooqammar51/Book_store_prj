@@ -1,0 +1,24 @@
+I:\Work\BulkyBook\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.deps.json
+I:\Work\BulkyBook\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.dll
+I:\Work\BulkyBook\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.pdb
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.AssemblyReference.cache
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfoInputs.cache
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfo.cs
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.dll
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\refint\BulkyBook.Models.dll
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.pdb
+I:\Work\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\ref\BulkyBook.Models.dll
+D:\Practice Projects\BulkyBook\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.deps.json
+D:\Practice Projects\BulkyBook\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.dll
+D:\Practice Projects\BulkyBook\BulkyBook.Models\bin\Debug\net7.0\BulkyBook.Models.pdb
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.AssemblyReference.cache
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfoInputs.cache
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.AssemblyInfo.cs
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.csproj.CoreCompileInputs.cache
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.dll
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\refint\BulkyBook.Models.dll
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\BulkyBook.Models.pdb
+D:\Practice Projects\BulkyBook\BulkyBook.Models\obj\Debug\net7.0\ref\BulkyBook.Models.dll

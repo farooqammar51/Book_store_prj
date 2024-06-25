@@ -1,0 +1,1215 @@
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\appsettings.Development.json
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\appsettings.json
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.staticwebassets.runtime.json
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.exe
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.deps.json
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.runtimeconfig.json
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.pdb
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Azure.Core.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Azure.Identity.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Humanizer.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.CodeDom.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Memory.Data.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+I:\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.AssemblyReference.cache
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.AssemblyInfoInputs.cache
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.AssemblyInfo.cs
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.RazorAssemblyInfo.cache
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.RazorAssemblyInfo.cs
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BulkyBookWeb.props
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.pack.json
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.build.json
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.development.json
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\bundle\BulkyBookWeb.styles.css
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\projectbundle\BulkyBookWeb.bundle.scp.css
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.CopyComplete
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.dll
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\refint\BulkyBookWeb.dll
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.pdb
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.genruntimeconfig.cache
+I:\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\ref\BulkyBookWeb.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\appsettings.Development.json
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\appsettings.json
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.staticwebassets.runtime.json
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.exe
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.deps.json
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.runtimeconfig.json
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.pdb
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Humanizer.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.AssemblyReference.cache
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.AssemblyInfoInputs.cache
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.AssemblyInfo.cs
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.RazorAssemblyInfo.cache
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.RazorAssemblyInfo.cs
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BulkyBookWeb.props
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.pack.json
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.build.json
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.development.json
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\bundle\BulkyBookWeb.styles.css
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\projectbundle\BulkyBookWeb.bundle.scp.css
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.CopyComplete
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.dll
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\refint\BulkyBookWeb.dll
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.pdb
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.genruntimeconfig.cache
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\ref\BulkyBookWeb.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Azure.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Azure.Identity.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.CodeDom.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Memory.Data.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Build.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Common.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Identity.Stores.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\mscorlib.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\netstandard.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.AppContext.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Buffers.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Configuration.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Console.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Core.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Data.Common.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Data.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Drawing.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Globalization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Memory.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Http.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Mail.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Ping.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Quic.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Requests.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Security.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Numerics.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ObjectModel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Claims.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Principal.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Json.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Transactions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ValueTuple.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Web.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Windows.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\WindowsBase.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.DataAccess.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.Models.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.DataAccess.pdb
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.Models.pdb
+I:\Work\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+I:\Work\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\appsettings.Development.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\appsettings.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.staticwebassets.runtime.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.exe
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.deps.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.runtimeconfig.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBookWeb.pdb
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.CSharp.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Features.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Http.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Localization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.JSInterop.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.VisualBasic.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Win32.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\Microsoft.Win32.Registry.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\mscorlib.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\netstandard.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.AppContext.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Buffers.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.Concurrent.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.Immutable.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.NonGeneric.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Collections.Specialized.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.Annotations.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Configuration.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Console.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Data.Common.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Data.DataSetExtensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Data.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Contracts.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Debug.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.EventLog.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Process.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.StackTrace.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Tools.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.TraceSource.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Diagnostics.Tracing.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Drawing.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Drawing.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Dynamic.Runtime.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Formats.Asn1.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Formats.Tar.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Globalization.Calendars.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Globalization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Globalization.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.Brotli.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.FileSystem.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Compression.ZipFile.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.IsolatedStorage.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Pipelines.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.Pipes.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.Expressions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.Parallel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Linq.Queryable.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Memory.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Http.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Http.Json.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.HttpListener.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Mail.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.NameResolution.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.NetworkInformation.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Ping.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Quic.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Requests.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Security.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.ServicePoint.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.Sockets.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebClient.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebHeaderCollection.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebProxy.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebSockets.Client.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Net.WebSockets.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Numerics.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Numerics.Vectors.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ObjectModel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.DispatchProxy.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Emit.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Metadata.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Reflection.TypeExtensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Resources.Reader.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Resources.ResourceManager.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Resources.Writer.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Handles.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.InteropServices.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Intrinsics.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Loader.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Numerics.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Json.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.AccessControl.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Claims.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Cng.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Csp.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Cryptography.Xml.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Principal.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.Principal.Windows.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Security.SecureString.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ServiceModel.Web.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ServiceProcess.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encoding.CodePages.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encoding.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encoding.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Encodings.Web.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.Json.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Text.RegularExpressions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Channels.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Overlapped.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.RateLimiting.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Thread.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.ThreadPool.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Threading.Timer.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Transactions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Transactions.Local.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.ValueTuple.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Web.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Web.HttpUtility.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Windows.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.Linq.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.ReaderWriter.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.Serialization.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XDocument.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XmlDocument.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XmlSerializer.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XPath.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\refs\WindowsBase.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Azure.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Azure.Identity.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Humanizer.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Common.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.CodeDom.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.DataAccess.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.Models.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.DataAccess.pdb
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\BulkyBook.Models.pdb
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.AssemblyReference.cache
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.AssemblyInfoInputs.cache
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.AssemblyInfo.cs
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cs
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.RazorAssemblyInfo.cache
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.RazorAssemblyInfo.cs
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.BulkyBookWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.BulkyBookWeb.props
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BulkyBookWeb.props
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BulkyBookWeb.props
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.build.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\staticwebassets.development.json
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\bundle\BulkyBookWeb.styles.css
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\scopedcss\projectbundle\BulkyBookWeb.bundle.scp.css
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.csproj.CopyComplete
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\refint\BulkyBookWeb.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.pdb
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\BulkyBookWeb.genruntimeconfig.cache
+D:\Practice Projects\BulkyBook\BulkyBookWeb\obj\Debug\net7.0\ref\BulkyBookWeb.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\Practice Projects\BulkyBook\BulkyBookWeb\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
